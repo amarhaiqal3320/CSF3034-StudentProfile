@@ -6,3 +6,5 @@
 *.class
 /src/studentprofile/GradeMessage/nbproject/private/
 /src/studentprofile/GradeMessage/build/
+/StudentInformationSystem/nbproject/private/
+/StudentInformationSystem/build/
