@@ -4,3 +4,5 @@
 /nbdist/
 /.nb-gradle./
 *.class
+/src/studentprofile/GradeMessage/nbproject/private/
+/src/studentprofile/GradeMessage/build/
